@@ -1,1 +1,1 @@
-# notification-service # notification-service
+This service is used to notify user for each event
